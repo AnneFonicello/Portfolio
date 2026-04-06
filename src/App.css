@@ -319,7 +319,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
   transition: var(--border) 0.3s, padding 0.3s;
 
