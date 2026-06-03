@@ -20,6 +20,13 @@
   }
 }
 
+/* General Icon Display as recommended by FA5*/
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
 .counter, .general-button {
   font-size: 16px;
   padding: 5px 10px;
@@ -381,6 +388,35 @@ nav {
   width: 100%;
   height: auto;
   display: block;
+}
+
+/* Card Linked Image */
+.card-link-img{
+  position: relative;
+  display: inline-flex;
+
+  img {
+    display: block;
+  }
+  .arrowIcon {
+    position: absolute;
+    z-index: 1;
+    left: 90%;
+    top: 5%;
+    height: 25pt;
+    width: 25pt;
+    visibility: hidden;
+    color: var(--text)
+  }
+}
+
+.card-link-img:hover {
+  img {
+      filter: brightness(0.7);
+  }
+  .arrowIcon{
+    visibility: visible;
+  }
 }
 
 /* Content area */

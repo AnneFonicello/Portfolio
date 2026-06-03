@@ -1,10 +1,19 @@
+import { FaArrowRight } from "react-icons/fa";
 const defaultTitle = "Default Title";
 const defaultBody = "Default Body Text";
 
 function Card({title, body, img, skills = [], link}) {
   return (
     <div className="card">
-      <img src={img} alt="Card image" />
+      {link && 
+        <a href={link} target="_blank" className="card-link-img">
+          <FaArrowRight className="arrowIcon" />
+          <img src={img} alt="Card image link" />
+        </a>
+      }
+      {!link &&
+        <img src={img} alt="Card image link" />
+      }
       <div className="card-content">
         <div className="card-title">{title}</div>
         <div className="card-text">
@@ -15,9 +24,6 @@ function Card({title, body, img, skills = [], link}) {
             <li key={index}>{skill}</li>
           ))}
         </ul>
-        {link && 
-          <a href={link} className="card-button">Read More</a>
-        }
       </div>
     </div>
   );

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Figtree:ital,wght@0,300..900;1,300..900&family=Niconne&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.7.0/css/all.css');
 :root {
-  --text: #C9C9C9;
+  --text: #e6e6e6;
   --text-h: #08060d;
   --bg: #fff;
   --border: #e5e4e7;
@@ -38,7 +39,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: #9ca3af;
+    --text: #e6e6e6;
     --text-h: #f3f4f6;
     --bg: #16171d;
     --border: #2e303a;
