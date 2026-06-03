@@ -48,7 +48,7 @@ function App() {
         <div className="ticks"></div>
 
      </section>
-     <section id="about" class="page-section">
+     <section id="about" className="page-section">
           <div className="center">
             <h2>About</h2>
             <p>
@@ -67,7 +67,7 @@ function App() {
           </div>
       </section>
 
-      <section id="experience" class="page-section">
+      <section id="experience" className="page-section">
           <div className="center">
             <h2>Experience</h2>
             <p>
