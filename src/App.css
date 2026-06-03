@@ -404,6 +404,31 @@ nav {
   line-height: 1.5;
 }
 
+/* Skills List */
+.card-list{
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 32px 0 0;
+
+  li {
+    list-style: none;
+    text-align: left;
+    color: var(--text-h);
+    font-size: 16px;
+    border-radius: 6px;
+    background: var(--social-bg);
+    display: flex;
+    padding: 6px 12px;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    transition: box-shadow 0.3s;
+  }
+}
+
 /* Button */
 .card-button {
   display: inline-block;

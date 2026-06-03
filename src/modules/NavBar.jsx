@@ -5,7 +5,7 @@ function NavBar() {
         <div className="nav-links" id="navLinks">
             <a href="#about">About</a>
             <a href="#experience">Experience</a>
-            <a href="#contact" className="nav-cta">Contact</a>
+            {/* <a href="#" className="nav-cta">Contact</a> */}
         </div>
     </nav>
   );

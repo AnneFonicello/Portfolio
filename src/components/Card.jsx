@@ -1,7 +1,7 @@
 const defaultTitle = "Default Title";
 const defaultBody = "Default Body Text";
 
-function Card({title, body, img}) {
+function Card({title, body, img, skills = [], link}) {
   return (
     <div className="card">
       <img src={img} alt="Card image" />
@@ -10,7 +10,14 @@ function Card({title, body, img}) {
         <div className="card-text">
           {body}
         </div>
-        <a href="#" className="card-button">Read More</a>
+        <ul className="card-list">
+          {skills.map((skill, index) => (
+            <li key={index}>{skill}</li>
+          ))}
+        </ul>
+        {link && 
+          <a href={link} className="card-button">Read More</a>
+        }
       </div>
     </div>
   );

@@ -23,6 +23,9 @@ function SkillsWidget() {
                 <li>
                     <p>Angular.js</p>
                 </li>
+                 <li>
+                    <p>Wordpress</p>
+                </li>
                 <li>
                     <p>ASP.Net</p>
                 </li>

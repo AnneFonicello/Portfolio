@@ -52,7 +52,17 @@ function App() {
           <div className="center">
             <h2>About</h2>
             <p>
-             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+             I'm Anne, a Full-stack Software Engineer with 8+ years of experience designing, developing, and deploying scalable, 
+             customer-centric web applications. I'm passionate about user accessibility and ensuring that UI design 
+             is seamless and intuitive for all. Across my career, I've cultivated a proven track record of delivering high-quality, 
+             outcome-driven solutions across React, Vue.js, C#, and modern JavaScript frameworks. 
+             
+             <br></br>
+             <br></br>
+             I'm a strong collaborator with an eye for improving internal processes in order to facilitate clear communication
+             and timeline predicability. I have ample experience using Agile practices in my work and have taken multiple projects through the full development cycle, 
+             from initial design to launch.
+
             </p>
           </div>
       </section>
@@ -61,13 +71,13 @@ function App() {
           <div className="center">
             <h2>Experience</h2>
             <p>
-             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+             Select examples of my previous work.
             </p>
             <div id="card-grid">
-              <Card title="UW Alumni Portal" body="test" img={UWAlumniPreview}/>
-              <Card title="UW Alumni Park" body="test" img={AlumniParkPreview}/>
-              <Card title="American Meteorological Society Member Portal" body="test" img={AMSPreview}/>
-              <Card title="Cycles - 1st Playable's Cognitive Bias Training Game" body="test" img={CyclesPreview}/>
+              <Card title="UW Alumni Portal" body="Full, ground up rebuild of the University of Wisconsin's Alumni Portal from initial design to launch utilizing a Headless CMS structure with Gatsby and Wordpress." img={UWAlumniPreview} skills={["Gatsby","React","Wordpress","GraphQL","Headless CMS"]}/>
+              <Card title="American Meteorological Society Member Portal" body="Front end architecture modernization of several user workflows, allowing seamless integration into legacy system for phased release." img={AMSPreview} skills={["Vue.js","Coldfusion","Node.js"]}/>
+              <Card title="UW Alumni Park" body="Interactive companion site for the University of Wisconsin's Alumni Park, allowing visitors to learn about the history and impact of the university and its alumni" img={AlumniParkPreview} skills={["HTML5","JavaScript"]}/>
+              <Card title="Cycles - 1st Playable's Cognitive Bias Training Game" body="Port of an existing ActionScript mobile game to be able to run nativly in any modern browser using modern HTML5 tools." img={CyclesPreview} skills={["JavaScript","HTML5","AS3"]}/>
             </div>
 
           </div>
