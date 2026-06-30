@@ -86,10 +86,10 @@ function App() {
              Select examples of my previous work.
             </p>
             <div id="card-grid">
-              <Card title="UW Alumni Portal" body="Full, ground up rebuild of the University of Wisconsin's Alumni Portal from initial design to launch utilizing a Headless CMS structure with Gatsby and Wordpress." img={UWAlumniPreview} skills={["Gatsby","React","Wordpress","GraphQL","Headless CMS"]} link="https://www.uwalumni.com/"/>
-              <Card title="American Meteorological Society Member Portal" body="Front end architecture modernization of several user workflows, allowing seamless integration into legacy system for phased release." img={AMSPreview} skills={["Vue.js","Coldfusion","Node.js"]}/>
-              <Card title="UW Alumni Park" body="Interactive companion site for the University of Wisconsin's Alumni Park, allowing visitors to learn about the history and impact of the university and its alumni" img={AlumniParkPreview} skills={["HTML5","JavaScript"]} link="https://www.alumnipark.com/"/>
-              <Card title="Cycles - 1st Playable's Cognitive Bias Training Game" body="Port of an existing ActionScript mobile game to be able to run nativly in any modern browser using modern HTML5 tools." img={CyclesPreview} skills={["JavaScript","HTML5","AS3"]}/>
+              <Card title="UW Alumni Portal" body="Facilitated end to end redesign of the University of Wisconsin's Alumni Portal from initial design to launch, utilizing a Headless CMS structure with Gatsby and Wordpress." img={UWAlumniPreview} skills={["Technical Design Translation","Sprint Planning","Cross-Functional Collaboration","Gatsby","React","Wordpress","GraphQL","Headless CMS"]} link="https://www.uwalumni.com/"/>
+              <Card title="American Meteorological Society Member Portal" body="Spearheaded the front end architecture modernization of several user workflows, allowing seamless integration into legacy systems for phased release." img={AMSPreview} skills={["Stakeholder Communication","Vue.js","Coldfusion","Node.js"]}/>
+              <Card title="UW Alumni Park" body="Collaborated with 3rd party studio, Filament Games, to produce an interactive companion site for the University of Wisconsin's Alumni Park, allowing visitors to learn about the history and impact of the university and its alumni through physical and digital exhibits." img={AlumniParkPreview} skills={["Third Party Collaboration","HTML5","JavaScript"]} link="https://www.alumnipark.com/"/>
+              <Card title="Cycles - 1st Playable's Cognitive Bias Training Game" body="Researched and architected the port of an existing ActionScript mobile game to be able to run nativly in any modern browser using modern HTML5 tools." img={CyclesPreview} skills={["Technical Research","JavaScript","HTML5","AS3"]}/>
             </div>
 
           </div>
