@@ -38,6 +38,15 @@ function SkillsWidget() {
                 <li>
                     <p>Agile Development Ideologies</p>
                 </li>
+                <li>
+                    <p>SCRUM</p>
+                </li>
+                <li>
+                    <p>Jira</p>
+                </li>
+                <li>
+                    <p>Client and Third Party Communication</p>
+                </li>
             </ul>
         </div>
     );
