@@ -55,7 +55,7 @@ function App() {
              I’m Anne, a Technical Project Lead and Senior Full-Stack Engineer with 8+ years of experience designing, 
              developing, and deploying scalable, customer-centric web applications. 
              I have built my career at the crossroads of technical execution and process governance, and I delight in
-             developing technical solutions while simultaneously spearheading process optimization and cross-functional communication. 
+             engineering robust software while simultaneously spearheading operational efficiency. 
              I have a proven track record of taking complex digital implementations through 
              the full product development lifecycle, from initial requirement scoping and architecture 
              design to QA and launch.
@@ -64,8 +64,8 @@ function App() {
              <br></br>
              As an engineer, I am highly proficient across React, Vue.js, C#, and modern frameworks, with a deep 
              passion for user accessibility and intuitive UI design. 
-             Simultaneously, I serve as a vital bridge between cross-functional teams and stakeholders, with a talent for communicating 
-             complicated development concepts and concerns in ways that are easily understood even by those without technical backgrounds. 
+             Simultaneously, I serve as a vital bridge between engineering teams and business stakeholders, with a natural talent for 
+             translating complex technical concepts into clear, actionable business insights. 
              I excel at championing Agile methodologies, restructuring project workflows to maximize team efficiency, 
              and removing development bottlenecks to ensure strict timeline predictability.
 
@@ -73,7 +73,7 @@ function App() {
              <br></br>
               Whether I am architecting a scalable codebase or managing the delivery path of a multi-faceted project, 
               I bring a unique blend of technical insight and structured governance to ensure high-quality, 
-              outcome-driven solutions. Reach out today, and let's chat about how I can help your team with their next project.
+              outcome-driven solutions. Reach out today, and let's chat about how I can help your team drive its next initiative to success.
 
             </p>
           </div>
