@@ -31,7 +31,7 @@ function App() {
               and <span id="hero-dev">development</span>
             </h1>
             <p>
-              Full Stack Engineer and Web Systems Developer with 8+ years 
+              Technical Project Lead and Senior Full-Stack Engineer with 8+ years 
               experience turning complex business needs
               into intuitive and accessible user experiences.
             </p>
@@ -52,16 +52,28 @@ function App() {
           <div className="center">
             <h2>About</h2>
             <p>
-             I'm Anne, a Full-stack Software Engineer with 8+ years of experience designing, developing, and deploying scalable, 
-             customer-centric web applications. I'm passionate about user accessibility and ensuring that UI design 
-             is seamless and intuitive for all. Across my career, I've cultivated a proven track record of delivering high-quality, 
-             outcome-driven solutions across React, Vue.js, C#, and modern JavaScript frameworks. 
+             I’m Anne, a Technical Project Lead and Senior Full-Stack Engineer with 8+ years of experience designing, 
+             developing, and deploying scalable, customer-centric web applications. 
+             I have built my career at the crossroads of technical execution and process governance, and I delight in
+             developing technical solutions while simultaneously spearheading process optimization and cross-functional communication. 
+             I have a proven track record of taking complex digital implementations through 
+             the full product development lifecycle, from initial requirement scoping and architecture 
+             design to QA and launch.
              
              <br></br>
              <br></br>
-             I'm a strong collaborator with an eye for improving internal processes in order to facilitate clear communication
-             and timeline predicability. I have ample experience using Agile practices in my work and have taken multiple projects through the full development cycle, 
-             from initial design to launch.
+             As an engineer, I am highly proficient across React, Vue.js, C#, and modern frameworks, with a deep 
+             passion for user accessibility and intuitive UI design. 
+             Simultaneously, I serve as a vital bridge between cross-functional teams and stakeholders, with a talent for communicating 
+             complicated development concepts and concerns in ways that are easily understood even by those without technical backgrounds. 
+             I excel at championing Agile methodologies, restructuring project workflows to maximize team efficiency, 
+             and removing development bottlenecks to ensure strict timeline predictability.
+
+             <br></br>
+             <br></br>
+              Whether I am architecting a scalable codebase or managing the delivery path of a multi-faceted project, 
+              I bring a unique blend of technical insight and structured governance to ensure high-quality, 
+              outcome-driven solutions. Reach out today, and let's chat about how I can help your team with their next project.
 
             </p>
           </div>
