@@ -62,7 +62,7 @@ function App() {
              
              <br></br>
              <br></br>
-             As an engineer, I am highly proficient in Javascrip, C#, and modern frameworks such as React and Vue.js, and have a strong 
+             As an engineer, I am highly proficient in Javascript, C#, and modern frameworks such as React and Vue.js, and have a strong 
              passion for user accessibility and intuitive UI design. 
              Simultaneously, I serve as a vital bridge between engineering teams and business stakeholders, with a natural talent for 
              translating complex technical concepts into clear, actionable business insights. 
