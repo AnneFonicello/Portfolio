@@ -52,9 +52,9 @@ function App() {
           <div className="center">
             <h2>About</h2>
             <p>
-             I’m Anne, a Technical Project Lead and Senior Full-Stack Engineer with 8+ years of experience designing, 
+             I'm Anne, a Technical Project Lead and Senior Full-Stack Engineer with 8+ years of experience designing, 
              developing, and deploying scalable, customer-centric web applications. 
-             I have built my career at the crossroads of technical execution and process governance, and I delight in
+             I have built my career around balancing detail oriented technical execution with adept process governance, and I delight in
              engineering robust software while simultaneously spearheading operational efficiency. 
              I have a proven track record of taking complex digital implementations through 
              the full product development lifecycle, from initial requirement scoping and architecture 
@@ -62,7 +62,7 @@ function App() {
              
              <br></br>
              <br></br>
-             As an engineer, I am highly proficient across React, Vue.js, C#, and modern frameworks, with a deep 
+             As an engineer, I am highly proficient in Javascrip, C#, and modern frameworks such as React and Vue.js, and have a strong 
              passion for user accessibility and intuitive UI design. 
              Simultaneously, I serve as a vital bridge between engineering teams and business stakeholders, with a natural talent for 
              translating complex technical concepts into clear, actionable business insights. 
